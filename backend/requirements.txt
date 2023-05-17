@@ -1,0 +1,7 @@
+flask
+flask-restful
+flask-apispec
+flask-restx
+pytest
+Werkzeug
+flask-cors
