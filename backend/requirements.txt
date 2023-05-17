@@ -5,3 +5,4 @@ flask-restx
 pytest
 Werkzeug
 flask-cors
+flask_sqlalchemy
