@@ -1,4 +1,4 @@
 # calculator_demo :
 A simple RPN calucator using flask :
-- Opération : ÷ / + / * / % / - 
+- Operation : ÷ / + / * / % / - 
 - frontend swagger ui
